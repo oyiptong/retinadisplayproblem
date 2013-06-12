@@ -56,4 +56,4 @@ Footage
 -------
 
 * [Dell U2410](https://vimeo.com/68238157)
-* [LG Flatron W2240V](https://vimeo.com/68255631) courtesy of @unr
+* [LG Flatron W2240V](https://vimeo.com/68255631) courtesy of [unr](https://github.com/unr)
