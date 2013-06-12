@@ -36,3 +36,4 @@ Monitors:
 
 * Dell U2410
 * Samsung S27B350
+* LG W2442PA
