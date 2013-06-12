@@ -25,6 +25,8 @@ Using preview:
 2. Make sure the image viewer renders the image unscaled
 3. Wait until the monitor shows artifacting and/or shuts off
 
+(Dan Fraser)[http://www.capybara.org/~andrew/noise/]'s 1px reproduction of the bug.
+
 Affected gear
 -------------
 
@@ -37,6 +39,13 @@ Monitors:
 * Dell U2410
 * Samsung S27B350
 * LG W2442PA
+
+OS:
+
+* Mac OS X 10.8
+* Windows 7 via bootcamp
+
+Note: Could not reproduce on fedora via bootcamp
 
 Footage
 -------
