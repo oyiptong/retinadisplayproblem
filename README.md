@@ -14,21 +14,25 @@ How
 ---
 
 Using a browser:
+
 1. Pick any browser, make it full-screen, or at least full-width
-1. Open the index.html page in the browser
-1. Wait until the monitor shows artifacting and/or shuts off
+2. Open the index.html page in the browser
+3. Wait until the monitor shows artifacting and/or shuts off
 
 Using preview:
+
 1. Open [display_problems.png](https://raw.github.com/oyiptong/retinadisplayproblem/master/display_problem.png) in Preview.app or using a web browser
-1. Make sure the image viewer renders the image unscaled
-1. Wait until the monitor shows artifacting and/or shuts off
+2. Make sure the image viewer renders the image unscaled
+3. Wait until the monitor shows artifacting and/or shuts off
 
 Affected gear
 -------------
 
 Computer:
+
 * MacbookPro10,1
 
 Monitors:
+
 * Dell U2410
 * Samsung S27B350
