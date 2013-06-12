@@ -1,0 +1,45 @@
+<!-- Begin Wrapper > Header HTML -->
+<!--[if lt IE 7]>              <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7]>                 <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8]>                 <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>                <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8"><title>Stop Watching Us  |  Stop Watching Us</title>
+        <!-- Empty conditional comment hack
+        Prevents lo d stacking in IE8
+        See http://www.phpied.com/conditional-comments-block-downloads/ -->
+        <!--[if IE]><![endif]-->
+        <!-- Chrome Frame for browsers that support it -->
+        <title>Stop Watching Us  |  Stop Watching Us</title>
+        <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+        <style>
+            .wrapper.top {
+                background-color: rgb(245, 245, 245);
+                /*background-image: url('https://sendto.mozilla.org/page/-/ssou-/point.png');*/
+                background-image: url('./point.png');
+                background-position: 0 100%;
+                background-repeat: repeat-x;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                width: 200px;
+                position: fixed;
+                height: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="problems" class="wrapper top">
+        </div>
+    </body>
+    <script>
+        var w = 200;
+        setInterval(function(){
+            w = w+10;
+            $("#problems").css("width", w+"px");
+        }, 200);
+    </script>
+</html>
