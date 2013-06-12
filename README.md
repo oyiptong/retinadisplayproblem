@@ -37,3 +37,8 @@ Monitors:
 * Dell U2410
 * Samsung S27B350
 * LG W2442PA
+
+Footage
+-------
+
+* [Dell U2410](https://raw.github.com/oyiptong/retinadisplayproblem/master/display_problem.m4v)
