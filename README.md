@@ -26,6 +26,6 @@ Using a browser:
 3. Wait until the monitor shows artifacting and/or shuts off
 
 Using preview:
-1. Open [display_problems.png](https://raw.github.com/oyiptong/retinadisplayproblem/master/display_problems.png) in Preview.app or using a web browser
+1. Open [display_problems.png](https://raw.github.com/oyiptong/retinadisplayproblem/master/display_problem.png) in Preview.app or using a web browser
 2. Make sure the image viewer doesn't render the image scaled
 3. Wait until the monitor shows artifacting and/or shuts off
