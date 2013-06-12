@@ -43,6 +43,10 @@ Monitors:
 * Samsung S27B350
 * LG W2442PA
 
+Monitors not affected:
+
+* Apple 27" Cinema
+
 OS:
 
 * Mac OS X 10.8
