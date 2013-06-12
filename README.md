@@ -25,7 +25,10 @@ Using preview:
 2. Make sure the image viewer renders the image unscaled
 3. Wait until the monitor shows artifacting and/or shuts off
 
-[Dan Fraser](http://www.capybara.org/~andrew/noise/)'s 1px reproduction of the bug.
+Web pages:
+
+* [Dan Fraser](http://www.capybara.org/~andrew/noise/)'s 1px reproduction of the bug.
+* [Olivier Yiptong](https://people.mozilla.com/~oyiptong/retinadisplayproblem/index.html)
 
 Affected gear
 -------------
