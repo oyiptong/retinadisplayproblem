@@ -25,7 +25,7 @@ Using preview:
 2. Make sure the image viewer renders the image unscaled
 3. Wait until the monitor shows artifacting and/or shuts off
 
-(Dan Fraser)[http://www.capybara.org/~andrew/noise/]'s 1px reproduction of the bug.
+[Dan Fraser](http://www.capybara.org/~andrew/noise/)'s 1px reproduction of the bug.
 
 Affected gear
 -------------
