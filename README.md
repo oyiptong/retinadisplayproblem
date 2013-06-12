@@ -42,6 +42,8 @@ Monitors:
 * Dell U2410
 * Samsung S27B350
 * LG W2442PA
+* LG W2240V
+* Apple 23" Cinema Display
 
 OS:
 
@@ -54,3 +56,4 @@ Footage
 -------
 
 * [Dell U2410](https://vimeo.com/68238157)
+* [LG Flatron W2240V](https://vimeo.com/68255631) courtesy of @unr
