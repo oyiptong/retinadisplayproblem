@@ -41,4 +41,4 @@ Monitors:
 Footage
 -------
 
-* [Dell U2410](https://raw.github.com/oyiptong/retinadisplayproblem/master/display_problem.m4v)
+* [Dell U2410](https://vimeo.com/68238157)
