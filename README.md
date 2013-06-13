@@ -13,22 +13,19 @@ The monitor will start to show some artifacting patterns, then shut off, unable 
 How
 ---
 
-Using a browser:
+Either get the code:
 
-1. Pick any browser, make it full-screen, or at least full-width
-2. Open the index.html page in the browser
-3. Wait until the monitor shows artifacting and/or shuts off
+1. Clone the repository
+2. Pick any browser, make it full-screen, or at least full-width
+3. Open the index.html page from your local repo in the browser
+4. Wait until the monitor shows artifacting and/or shuts off
 
-Using preview:
+Or open one of these web pages:
 
-1. Open [display_problems.png](https://raw.github.com/oyiptong/retinadisplayproblem/master/display_problem.png) in Preview.app or using a web browser
-2. Make sure the image viewer renders the image unscaled
-3. Wait until the monitor shows artifacting and/or shuts off
+* [Dan Fraser](http://www.capybara.org/~andrew/noise/)'s reproduction of the bug.
+* [My version](https://people.mozilla.com/~oyiptong/retinadisplayproblem/index.html) with progressive animation to find the "breaking point"
 
-Web pages:
-
-* [Dan Fraser](http://www.capybara.org/~andrew/noise/)'s 1px reproduction of the bug.
-* [Olivier Yiptong](https://people.mozilla.com/~oyiptong/retinadisplayproblem/index.html)
+Dan's will make the screen go blank faster, (instantly in my case). Mine will progressively add the repeating pattern on-screen until the problem occurs.
 
 Affected gear
 -------------
