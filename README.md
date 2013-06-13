@@ -41,6 +41,7 @@ Monitors:
 
 * Dell U2410
 * Samsung S27B350
+* LG 23EN43
 * LG W2442PA
 * LG W2240V
 * Apple 23" Cinema Display
