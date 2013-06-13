@@ -44,16 +44,16 @@ Monitors:
 * LG W2442PA
 * LG W2240V
 * Apple 23" Cinema Display
+* Samsung SyncMaster P2770
 
 OS:
 
 * Mac OS X 10.8
 * Windows 7 via bootcamp
 
-Note: Could not reproduce on fedora via bootcamp
-
 Footage
 -------
 
 * [Dell U2410](https://vimeo.com/68238157)
 * [LG Flatron W2240V](https://vimeo.com/68255631) courtesy of [unr](https://github.com/unr)
+* [LG W2442PA](https://vimeo.com/68274344) courtesy of [Byron Jones](https://github.com/globau)
