@@ -44,6 +44,10 @@ Monitors:
 * Apple 23" Cinema Display
 * Samsung SyncMaster P2770
 
+Monitors not affected:
+
+* Apple 27" Cinema
+
 OS:
 
 * Mac OS X 10.8
