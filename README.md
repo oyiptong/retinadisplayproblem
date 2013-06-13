@@ -87,32 +87,32 @@ Here are some plausible theories on the cause:
 
 3. [elmood](http://www.capybara.org/) from freenode on the topic:
     
-    > 21:24:29 <oyiptong_> so here's a possible explanation: https://news.ycombinator.com/item?id=5870720  
-    > 21:24:33 <oyiptong_> i don't understand it =/  
-    > 21:24:59 <elmood> the ringing makes sense i suppose  
-    > 21:25:21 <elmood> but i wonder how much ringing there is in an HDMI cable really  
-    > 21:25:34 <elmood> and why it only happens with certain models  
-    > 21:25:50 <elmood> maybe improper termination in the adapter  
-    > 21:26:00 <oyiptong_> what's ringing?  
-    > 21:26:16 <elmood> video and high speed signals travel down transmission lines  
-    > 21:26:45 <elmood> which means that the signal has to be matched to the wire, circuit board, connector all the way along  
-    > 21:26:49 <elmood> for a constant impedance  
-    > 21:27:14 <elmood> incorrect impedances cause the signal to reflect back and forth, or get distorted  
-    > 21:27:43 <elmood> you can mostly see it on VGA if you use a bad cable or put a few cables together  
-    > 21:27:53 <elmood> you can see little ghosts  
-    > 21:28:12 <elmood> like echos that extend to the right of sharp edges  
-    > 21:28:25 <oyiptong_> i see  
-    > 21:28:33 <elmood> that is impedance mismatch in the cables  
-    > 21:29:01 <elmood> and what you see is the time it takes for the signal to bounce back and forth  
-    > 21:29:12 <elmood> about 1ns per metre of cable or less  
-    > 21:29:32 <elmood> err 1ns per foot i think  
-    > 21:29:52 <elmood> a pixel on a high res screen is <10ns usually  
-    > 21:30:00 <oyiptong_> why does it occur only on retina macs so far then?  
-    > 21:30:07 <elmood> i don't know  
-    > 21:30:20 <oyiptong_> hmmm interesting  
-    > 21:30:24 <elmood> perhaps the driver chip used in these adapters is not very good  
-    > 21:30:32 <elmood> or the board is not designed correctly  
-    > 21:30:47 <elmood> i did a lot of video stuff some years ago so learned all about this  
-    > 21:31:09 <elmood> i was measuring the length of CAT5 cables and stuff electrically  
-    > 21:31:13 <elmood> quite fun!  
-    > 21:32:12 <oyiptong_> that sounds fun!   
+    > 21:24:29 &lt;oyiptong_&gt; so here's a possible explanation: https://news.ycombinator.com/item?id=5870720  
+    > 21:24:33 &lt;oyiptong_&gt; i don't understand it =/  
+    > 21:24:59 &lt;elmood&gt; the ringing makes sense i suppose  
+    > 21:25:21 &lt;elmood&gt; but i wonder how much ringing there is in an HDMI cable really  
+    > 21:25:34 &lt;elmood&gt; and why it only happens with certain models  
+    > 21:25:50 &lt;elmood&gt; maybe improper termination in the adapter  
+    > 21:26:00 &lt;oyiptong_&gt; what's ringing?  
+    > 21:26:16 &lt;elmood&gt; video and high speed signals travel down transmission lines  
+    > 21:26:45 &lt;elmood&gt; which means that the signal has to be matched to the wire, circuit board, connector all the way along  
+    > 21:26:49 &lt;elmood&gt; for a constant impedance  
+    > 21:27:14 &lt;elmood&gt; incorrect impedances cause the signal to reflect back and forth, or get distorted  
+    > 21:27:43 &lt;elmood&gt; you can mostly see it on VGA if you use a bad cable or put a few cables together  
+    > 21:27:53 &lt;elmood&gt; you can see little ghosts  
+    > 21:28:12 &lt;elmood&gt; like echos that extend to the right of sharp edges  
+    > 21:28:25 &lt;oyiptong_&gt; i see  
+    > 21:28:33 &lt;elmood&gt; that is impedance mismatch in the cables  
+    > 21:29:01 &lt;elmood&gt; and what you see is the time it takes for the signal to bounce back and forth  
+    > 21:29:12 &lt;elmood&gt; about 1ns per metre of cable or less  
+    > 21:29:32 &lt;elmood&gt; err 1ns per foot i think  
+    > 21:29:52 &lt;elmood&gt; a pixel on a high res screen is <10ns usually  
+    > 21:30:00 &lt;oyiptong_&gt; why does it occur only on retina macs so far then?  
+    > 21:30:07 &lt;elmood&gt; i don't know  
+    > 21:30:20 &lt;oyiptong_&gt; hmmm interesting  
+    > 21:30:24 &lt;elmood&gt; perhaps the driver chip used in these adapters is not very good  
+    > 21:30:32 &lt;elmood&gt; or the board is not designed correctly  
+    > 21:30:47 &lt;elmood&gt; i did a lot of video stuff some years ago so learned all about this  
+    > 21:31:09 &lt;elmood&gt; i was measuring the length of CAT5 cables and stuff electrically  
+    > 21:31:13 &lt;elmood&gt; quite fun!  
+    > 21:32:12 &lt;oyiptong_&gt; that sounds fun!   
